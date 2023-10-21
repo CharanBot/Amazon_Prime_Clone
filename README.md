@@ -10,7 +10,7 @@ This project is a clone of Amazon Prime, a popular streaming service. It has bee
 
 3. **Payments Page**: Users can subscribe to the service by making payments through various payment methods.
 
-4. **Browsing Movies Page**: Users can browse and search for movies and TV shows, view details, and start watching content.
+4. **Browsing Movies Page**: Users can browse and search for movies and TV shows, view details, and start watching content.{ No you cant actually watch :((    }
 
 ## Getting Started
 
